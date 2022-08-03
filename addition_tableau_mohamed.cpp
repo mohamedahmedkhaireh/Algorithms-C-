@@ -1,5 +1,5 @@
-#include<stdio.h>
- 
+//#include<stdio.h>
+ //mohamed v
 int main()
 {
   int matx1[4][4], matx2[4][4], matx3[4][4];
